@@ -8,9 +8,9 @@ EPL Pipeline is a modern data pipeline built with Airflow, Spark, and PostgreSQL
 
 - **Airflow DAG** for orchestration
 - **Pandas** for cleaning of raw CSV data and preprocessing data for star schema model
--  **AWS S3** for or scalable data storage and analytics
+- **AWS S3** for or scalable data storage and analytics
 - **PostgreSQL warehouse** for storing new data model
-- **AWS Spark** for performing aggregations for analytical insights
+- **Apache Spark** for performing aggregations for analytical insights
 - Processed ~600 player statistics
 
 ---
