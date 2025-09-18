@@ -15,7 +15,7 @@ EPL Pipeline is a modern data pipeline built with Airflow, Spark, and PostgreSQL
 
 ---
 
-- ## 🧱 Architecture
+## 🧱 Architecture
 
 ```
 | EPL stats |–>| Airflow  |–>|   Pandas    |–>| AWS s3  |–>|  Spark  |–>| PostgreSQL |
